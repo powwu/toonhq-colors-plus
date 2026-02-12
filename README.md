@@ -1,5 +1,5 @@
 # ToonHQ Colors Plus
-Userscript that recolors ToonHQ gag/suit bubbles to better show toon status at a glance.
+Userscript that recolors [ToonHQ](https://toonhq.org/groups/) gag/suit bubbles to better show toon status at a glance.
 
 Bubbles will turn green for the following:
 - Lv. 7 gags
